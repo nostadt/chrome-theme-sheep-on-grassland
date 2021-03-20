@@ -12,3 +12,7 @@ You can install it from the
 I appreciate any feedback. You may leave a note in google chrome app store or create a new
 [issue](https://chrome.google.com/webstore/detail/sheep-on-grassland/njjhipfdgmopapdkdnlkmaeenkgdppbj). Before creating
 a new issue I kindly ask you to check posted issues yet to avoid duplicates.
+
+## My other themes
+
+[Here](https://github.com/AMartinNo1?tab=repositories&q=chrome-theme&type=source&language=) you find more of my Google Chrome themes.
