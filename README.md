@@ -3,7 +3,7 @@
 
 # Sheep on grassland
 
-Sheep on grassland is a Theme for the Browser Google Chrome which comes with no costs.
+Sheep on grassland is a theme for the Browser Google Chrome which comes with no costs.
 You can install it from the
 [official webstore](https://chrome.google.com/webstore/detail/sheep-on-grassland/njjhipfdgmopapdkdnlkmaeenkgdppbj).
 
