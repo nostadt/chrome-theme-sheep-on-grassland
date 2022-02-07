@@ -1,5 +1,5 @@
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/njjhipfdgmopapdkdnlkmaeenkgdppbj?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/sheep-on-grassland/njjhipfdgmopapdkdnlkmaeenkgdppbj)
-[![GitHub](https://img.shields.io/github/license/amartinno1/chrome-theme-sheep-on-grassland?style=for-the-badge)](https://github.com/AMartinNo1/chrome-theme-sheep-on-grassland/blob/development/LICENSE)
+[![GitHub](https://img.shields.io/github/license/nostadt/chrome-theme-sheep-on-grassland?style=for-the-badge)](https://github.com/nostadt/chrome-theme-sheep-on-grassland/blob/development/LICENSE)
 
 # Sheep on grassland
 
@@ -15,4 +15,4 @@ a new issue I kindly ask you to check posted issues yet to avoid duplicates.
 
 ## My other themes
 
-[Here](https://github.com/AMartinNo1?tab=repositories&q=chrome-theme&type=source&language=) you find more of my Google Chrome themes.
+[Here](https://github.com/nostadt?tab=repositories&q=chrome-theme&type=source&language=) you find more of my Google Chrome themes.
