@@ -3,7 +3,7 @@
   "name": "__MSG_appName__",
   "description": "__MSG_appDesc__",
   "default_locale": "en",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "theme": {
     "images": {
       "theme_ntp_background": "images/background.png"
