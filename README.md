@@ -16,3 +16,10 @@ a new issue I kindly ask you to check posted issues yet to avoid duplicates.
 ## My other themes
 
 [Here](https://github.com/nostadt?tab=repositories&q=chrome-theme&type=source&language=) you find more of my Google Chrome themes.
+
+## Create Zip File For Upload at Chrome Web Store
+
+```bash
+zip .dist/chrome-theme-sheep-on-grassland.zip -r _locales/ images/ manifest
+.json
+```
